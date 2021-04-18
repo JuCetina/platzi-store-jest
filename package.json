@@ -64,9 +64,9 @@
     "webpack-dev-server": "^3.9.0"
   },
   "bugs": {
-    "url": "https://github.com/gndx/platzi-store/issues"
+    "url": "https://github.com/JuCetina/platzi-store/issues"
   },
-  "homepage": "https://github.com/gndx/platzi-store/#readme",
+  "homepage": "https://github.com/JuCetina/platzi-store/#readme",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
