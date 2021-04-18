@@ -8,7 +8,7 @@ exports[`Header Snapshot Comprobar la UI del componente Header 1`] = `
     className="Header-title"
   >
     <a
-      href="/platzi-store-jest/"
+      href="/platzi-store-jest"
       onClick={[Function]}
     >
       Platzi Store
@@ -18,7 +18,7 @@ exports[`Header Snapshot Comprobar la UI del componente Header 1`] = `
     className="Header-checkout"
   >
     <a
-      href="/platzi-store-jest/checkout"
+      href="/checkout"
       onClick={[Function]}
     >
       <i

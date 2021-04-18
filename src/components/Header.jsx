@@ -6,12 +6,12 @@ import '../styles/components/Header.styl';
 const Header = props => (
   <div className="Header">
     <h1 className="Header-title">
-      <Link to="platzi-store-jest/">
+      <Link to="/platzi-store-jest">
         Platzi Store
       </Link>
     </h1>
     <div className="Header-checkout">
-      <Link to="platzi-store-jest/checkout">
+      <Link to="/checkout">
         <i className="fas fa-shopping-basket" />
       </Link>
       {props.cart.length > 0 &&
